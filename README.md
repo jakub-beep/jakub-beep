@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🇵🇱 My name is Jakub and I am from Poland. 
+🇶🇦: My name is Jakub and I am from Poland. 
 Currently I devote my time between:
-💼 working as CAD Designer 
+💼 working as CAD Designer;
 💻 studying application of Internet of Things at Adam Mickiewicz University in Poznań.
 
 :red_car:  Currently I am part of students organization that works on building solar cars. These cars are using electric engines and PV panels to use some natural power resources.
