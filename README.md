@@ -1,8 +1,11 @@
-# Hi there 👋
+### Hi there 👋
 
-My name is Szymon and I come from Poland. Currently I am studing Automation and Robotics at the Poznań University of technology.
+🇵🇱 My name is Jakub and I am from Poland. 
+Currently I devote my time between:
+💼 working as CAD Designer 
+💻 studying application of Internet of Things at Adam Mickiewicz University in Poznań.
 
-- 🔭 Currently I am part of students organization that works on building solar cars. These cars are using electric engines and PV panels to use some natural power resources.
+:red_car:  Currently I am part of students organization that works on building solar cars. These cars are using electric engines and PV panels to use some natural power resources.
 - 🌱 I’m currently spending my time on learning Electronics and perfecting my skills in programming microcontrollers.
 - 🤔 I’m looking for help in both electronics so I can learn faster and exploring new ideas
 - 😄 I’m interested in broadly understood technology, science and mathematics. In private I also do many various things such as numerous types of activities and reading books. I am also fond of cooking some delicious food.
