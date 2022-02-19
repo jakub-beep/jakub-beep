@@ -19,6 +19,7 @@ The program's aim is to develop system which automatize 3D CAD designing and mak
 Currently I am maintaning our website which I created to promote our activity and green energy sources.
 The website was created with the most basic technologies to make it easy-maintanable, easy-understandable and to be sure that these technologies will be supported in the future.
 Stack: HTML, CSS, JS.
+https://putsolardynamics.pl/
 
 Earlier I used to be a leader of mechanical department which consited of 12 members. 
 I was focused on managing the team, checking correctness of projects, implementing new CAD files managament system and making plan for future steps.
