@@ -12,9 +12,8 @@ Currently I devote my time between:
 # Experience 
 
 ## Professional experience
-Currently I've got no professional experience as a developer.
-But in my current job I am a part of project which develops automation program for CAD designers which will accelarate their performance.
-The program's aim is to develop system which automatize 3D CAD designing and making 2D technical drawings in CATIA V6 environment.
+Currently I am getting my first professional experience as a developer and also ERP consultant.
+Im my job I am responsible for creating web applications.
 
 ## PUT Solar Dynamics organization
 Currently I am maintaning our website which I created to promote our activity and green energy sources.
