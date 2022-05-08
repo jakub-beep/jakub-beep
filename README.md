@@ -3,10 +3,11 @@
 My name is Jakub and I am from Poland.
 
 Currently I devote my time between:
-- :briefcase: working as CAD Designer;
+- :briefcase: working as Junior Full Stack Developer;
+- :briefcase: working as Junior ERP Consultant;
 - :book: studying application of Internet of Things at Adam Mickiewicz University in Poznań;
-- :red_car: students organization PUT SOLAR DYNAMICS
-- :computer: learning how to write a beatiful code to become junior developer
+- :red_car: helping students organization PUT SOLAR DYNAMICS
+- :computer: learning how to write a beatiful code
 
 # Experience 
 
