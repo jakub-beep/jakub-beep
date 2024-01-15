@@ -10,23 +10,28 @@ Currently I devote my time between:
 # Experience 
 
 ## Professional experience
-Currently I am getting my first professional experience as a developer and also ERP consultant.
-Im my job I am responsible for creating web applications.
+I've got over 2 years experience in software development, which I gained in 2 companies.
+Mostly I've been working as a fullstack developer.
+I've taken part in projects, which were responsible for delivering:
+- websites:
+  * website for renting and selling apartments
+  * website for a marketing agency
+- internal apps:
+  * app for a bank which was designed to help employees in everyday work
+- protoypes:
+  * app which would eventually become a platform for communication between patients and pharmacies
 
-## PUT Solar Dynamics organization
-Currently I am maintaning our website which I created to promote our activity and green energy sources.
-The website was created with the most basic technologies to make it easy-maintanable, easy-understandable and to be sure that these technologies will be supported in the future.
-Stack: HTML, CSS, JS.
+## Extra projects
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+- Website for student's oranization PUT SOLAR DYNAMICS
+As a former member of a team I am responsible for maintaning website, which I created as an actual member of the team.
+The website was created with the most basic technologies (like vanilla JS) to make it easy-maintanable, easy-understandable
+and to be sure that these technologies will be supported in the future.
 https://putsolardynamics.pl/
 
-Earlier I used to be a leader of mechanical department which consited of 12 members. 
-I was focused on managing the team, checking correctness of projects, implementing new CAD files managament system and making plan for future steps.
-
-## Personal projects
 - :bald_man: personal portfolio website http://jakubwytykowski.online/ stack:(HTML, CSS JS);
 - :heavy_plus_sign: advanced calculator stack:(python, GUI);
 - :red_car: website for PUT SOLAR DYNAMICS team https://putsolardynamics.pl/;
-- :shopping: ecommerce website
 
 # My skills
 <p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
