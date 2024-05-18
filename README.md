@@ -10,7 +10,7 @@ Currently I devote my time between:
 # Experience 
 
 ## Professional experience
-I've got almost 3 years experience in software development, which I gained in 2 companies.
+I've got 3 years experience in software development, which I gained in 2 companies.
 Mostly I've been working as a fullstack developer.
 I've taken part in projects, which were responsible for delivering:
 - websites:
